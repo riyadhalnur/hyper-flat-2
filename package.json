@@ -1,0 +1,24 @@
+{
+  "name": "hyperterm-flat",
+  "version": "1.0.0",
+  "description": "A Flat theme for HyperTerm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyadhalnur/hyperterm-flat.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "theme",
+    "flat"
+  ],
+  "author": "Riyadh Al Nur <riyadhalnur@verticalaxisbd.com> (http://www.verticalaxisbd.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riyadhalnur/hyperterm-flat/issues"
+  },
+  "homepage": "https://github.com/riyadhalnur/hyperterm-flat#readme"
+}
