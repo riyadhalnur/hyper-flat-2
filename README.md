@@ -1,4 +1,4 @@
-hyperterm-flat
+hyperterm-flat-2
 ======================
 
 A Flat theme for [HyperTerm](https://hyperterm.org/)  
@@ -6,7 +6,7 @@ A Flat theme for [HyperTerm](https://hyperterm.org/)
 ![Screenshot](screenshot.png)
 
 ### Usage
-Add `hyperterm-flat` to list of plugins in `~/.hyperterm.js`.  
+Add `hyperterm-flat-2` to list of plugins in `~/.hyperterm.js`.  
 
 ### Contributing
 Contributions always welcome.  
