@@ -1,6 +1,8 @@
 hyper-flat-2
 ======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/riyadhalnur/hyper-flat-2.svg)](https://greenkeeper.io/)
+
 A Flat theme for [Hyper](https://hyper.is//)  
 
 ![Screenshot](screenshot.png)
